@@ -21,7 +21,7 @@
 
 Если название задачи больше 48 символов, то обрезать до 48 символов и добавить троеточие.
 
-#Пример отчёта
+#Пример отчёта  
 
 Отчёт для Deckow-Crist.  
 Ervin Howell <Shanna@melissa.tv> 23.09.2020 15:25  
@@ -39,7 +39,7 @@ est ut voluptate quam dolor
 suscipit repellat esse quibusdam voluptatem incu...  
 laborum aut in quam
 
-#Запуск
+#Запуск  
 
 Для запуска нужно клонировать репозиторий командой:
 + **git clone https://github.com/BeliaR1232/reports.git**   
